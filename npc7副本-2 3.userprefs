@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SimpleTownLite/scripts/TriggerEnter.cs">
+    <Files>
+      <File FileName="Assets/2D Sky FREE/information.cs" Line="69" Column="65" />
+      <File FileName="Assets/SimpleTownLite/scripts/NewplayerGuide.cs" Line="1" Column="1" />
+      <File FileName="Assets/navigate1.cs" Line="1" Column="1" />
+      <File FileName="Assets/navigate.cs" Line="1" Column="1" />
+      <File FileName="Assets/touchcontroll.cs" Line="1" Column="1" />
+      <File FileName="Assets/CameraMove.js" Line="1" Column="1" />
+      <File FileName="../../Google 云端硬盘/526 class project/nav1111/navigate2.cs" Line="1" Column="1" />
+      <File FileName="Assets/NPCMenu3.cs" Line="1" Column="1" />
+      <File FileName="Assets/npcborn/navigate3.cs" Line="1" Column="1" />
+      <File FileName="Assets/SimpleTownLite/scripts/TriggerEnter.cs" Line="12" Column="27" />
+      <File FileName="Assets/SimpleTownLite/scripts/TriggerEnterh5.cs" Line="32" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
